@@ -74,7 +74,7 @@ body {
   overflow-x: scroll;
   line-height: 0px;
   position: relative;
-  height: max(3in, 40vh);
+  height: max(3in, 50vh);
 }
 
 .connector-div {
